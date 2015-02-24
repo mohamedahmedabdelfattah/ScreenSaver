@@ -1,0 +1,13 @@
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\bin\Debug\Interop.SpeechLib.dll
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\obj\Debug\ResolveAssemblyReference.cache
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\obj\Debug\Interop.SpeechLib.dll
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.ResolveComReference.cache
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.MainForm.resources
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.OptionsForm.resources
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.Cache
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+E:\Mohamed\Career\Programming\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
