@@ -59,7 +59,6 @@
             this.labelDateTime.TabIndex = 0;
             this.labelDateTime.Text = "Time&&Date";
             this.labelDateTime.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.labelDateTime.Visible = false;
             // 
             // timerTime
             // 
@@ -84,7 +83,6 @@
             this.labeltimerBackgroundImageStatus.TabIndex = 1;
             this.labeltimerBackgroundImageStatus.Text = "Status";
             this.labeltimerBackgroundImageStatus.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.labeltimerBackgroundImageStatus.Visible = false;
             // 
             // bgLoadImages
             // 
@@ -103,15 +101,15 @@
             this.pictureBackground.Size = new System.Drawing.Size(1000, 500);
             this.pictureBackground.TabIndex = 2;
             this.pictureBackground.TabStop = false;
-            this.pictureBackground.MouseMove += new System.Windows.Forms.MouseEventHandler(this.MainForm_MouseMove);
             this.pictureBackground.Click += new System.EventHandler(this.MainForm_Click);
+            this.pictureBackground.MouseMove += new System.Windows.Forms.MouseEventHandler(this.MainForm_MouseMove);
             // 
             // MainForm
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(1000, 500);
-            this.Controls.Add(this.labeltimerBackgroundImageStatus);
             this.Controls.Add(this.labelDateTime);
+            this.Controls.Add(this.labeltimerBackgroundImageStatus);
             this.Controls.Add(this.pictureBackground);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -120,11 +118,11 @@
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MainForm";
-            this.Shown += new System.EventHandler(this.MainForm_Shown);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.MainForm_FormClosed);
+            this.Shown += new System.EventHandler(this.MainForm_Shown);
             this.Click += new System.EventHandler(this.MainForm_Click);
-            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.MainForm_MouseMove);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.MainForm_KeyDown);
+            this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.MainForm_MouseMove);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBackground)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
