@@ -1,8 +1,8 @@
-﻿﻿NOTES
+﻿﻿NOTEs
 ------
 -	
 
-FIX
+BUGs
 ---
 -	
 
@@ -10,7 +10,7 @@ WORK IN PROGRESS
 ----------------
 -	
 
-TODO
+TODOs
 ----
 -	
 
